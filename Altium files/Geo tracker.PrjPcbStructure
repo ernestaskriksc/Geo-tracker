@@ -1,6 +1,6 @@
-Record=TopLevelDocument|FileName=Battery charger.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Battery charger.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=Connectors.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=GNSS modulis.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=MCU.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=GNSS modulis.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=Power.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=RF Front End.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=RF Front End.SchDoc|SheetNumber=6
